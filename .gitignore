@@ -1,7 +1,9 @@
 __pycache__/
 *.py[cod]
 venv/
-
+/.env
+/logs/
+/playground/
 /data/processed/
 /data/raw/*
 !/data/raw/readme.txt

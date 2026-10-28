@@ -1,0 +1,17 @@
+name: brain-dynamics
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - jupyter
+  - ipykernel
+  - h5py
+  - ffmpeg
+  - pip
+  - pip:
+      - yumeow-plot==0.1.2
